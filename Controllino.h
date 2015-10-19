@@ -640,6 +640,10 @@ Version History
 #define CONTROLLINO_D17 47
 #define CONTROLLINO_D18 48
 #define CONTROLLINO_D19 49
+#define CONTROLLINO_D20 ?? // Digital output 20 till D23 are not recognized by the library I think this is the fault
+#define CONTROLLINO_D21 ??
+#define CONTROLLINO_D22 ??
+#define CONTROLLINO_D23 ??
 
 #define CONTROLLINO_A0 54
 #define CONTROLLINO_A1 55
